@@ -1,0 +1,14 @@
+/home/et12alumno/Escritorio/lol/bin/Debug/net8.0/lol
+/home/et12alumno/Escritorio/lol/bin/Debug/net8.0/lol.deps.json
+/home/et12alumno/Escritorio/lol/bin/Debug/net8.0/lol.runtimeconfig.json
+/home/et12alumno/Escritorio/lol/bin/Debug/net8.0/lol.dll
+/home/et12alumno/Escritorio/lol/bin/Debug/net8.0/lol.pdb
+/home/et12alumno/Escritorio/lol/obj/Debug/net8.0/lol.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/lol/obj/Debug/net8.0/lol.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/lol/obj/Debug/net8.0/lol.AssemblyInfo.cs
+/home/et12alumno/Escritorio/lol/obj/Debug/net8.0/lol.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/lol/obj/Debug/net8.0/lol.dll
+/home/et12alumno/Escritorio/lol/obj/Debug/net8.0/refint/lol.dll
+/home/et12alumno/Escritorio/lol/obj/Debug/net8.0/lol.pdb
+/home/et12alumno/Escritorio/lol/obj/Debug/net8.0/lol.genruntimeconfig.cache
+/home/et12alumno/Escritorio/lol/obj/Debug/net8.0/ref/lol.dll
