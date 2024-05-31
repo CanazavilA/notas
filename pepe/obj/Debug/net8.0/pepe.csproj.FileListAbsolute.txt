@@ -1,0 +1,14 @@
+/home/et12alumno/Escritorio/pepe/bin/Debug/net8.0/pepe
+/home/et12alumno/Escritorio/pepe/bin/Debug/net8.0/pepe.deps.json
+/home/et12alumno/Escritorio/pepe/bin/Debug/net8.0/pepe.runtimeconfig.json
+/home/et12alumno/Escritorio/pepe/bin/Debug/net8.0/pepe.dll
+/home/et12alumno/Escritorio/pepe/bin/Debug/net8.0/pepe.pdb
+/home/et12alumno/Escritorio/pepe/obj/Debug/net8.0/pepe.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Escritorio/pepe/obj/Debug/net8.0/pepe.AssemblyInfoInputs.cache
+/home/et12alumno/Escritorio/pepe/obj/Debug/net8.0/pepe.AssemblyInfo.cs
+/home/et12alumno/Escritorio/pepe/obj/Debug/net8.0/pepe.csproj.CoreCompileInputs.cache
+/home/et12alumno/Escritorio/pepe/obj/Debug/net8.0/pepe.dll
+/home/et12alumno/Escritorio/pepe/obj/Debug/net8.0/refint/pepe.dll
+/home/et12alumno/Escritorio/pepe/obj/Debug/net8.0/pepe.pdb
+/home/et12alumno/Escritorio/pepe/obj/Debug/net8.0/pepe.genruntimeconfig.cache
+/home/et12alumno/Escritorio/pepe/obj/Debug/net8.0/ref/pepe.dll
