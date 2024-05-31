@@ -1,0 +1,2 @@
+# notas
+trabajo de vectores
